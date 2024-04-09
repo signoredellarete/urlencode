@@ -6,7 +6,7 @@ Linux urlencode for command line, written in Rust.
 RUSTFLAGS='-C strip=symbols' cargo build --release
 ```
 
-## How to compile for Alpine linux
+## How to compile on Alpine linux
 
 apk add gcc
 apk add cc

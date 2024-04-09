@@ -1,5 +1,5 @@
 # urlencode
-Linux Binary executable to urlencode strings from command line
+Linux urlencode for command line, written in Rust.
 
 ## Release Compilation to reduce executable size
 ```
